@@ -1,0 +1,150 @@
+[
+    {
+        "terminal":1,
+        "belt1":"",
+        "belt2":"",
+        "gate1":"",
+        "gate2":"",
+        "remark":"Canceled",
+        "actual_datetime":null,
+        "estimated_datetime":null,
+        "flight_no":"WE 617",
+        "scheduled_datetime":"2017-08-22 23:55:00",
+        "scheduled_time":"23:55:00",
+        "type":"arrival",
+        "check_in":"",
+        "id":815035,
+        "airport":{
+            "code3":"CSX",
+            "code4":"ZGHA",
+            "name":"Changsha\/Huang Hua",
+            "city":"Changsha",
+            "country":"China",
+            "agoda_country":null
+        },
+        "airline":{
+            "code2":"WE",
+            "code3":"THD",
+            "name":"Thai Smile Airways Co.2 Ltd.",
+            "logo":"http:\/\/gateway.airportthai.co.th\/img\/airline_logo\/THD.png",
+            "logo2":"https:\/\/gateway.airportthai.co.th\/img\/airline_logo\/THD.png"
+            },
+        "final_datetime":"2017-08-22 23:55:00",
+        "flight_origin_airport":{
+            "code3":"CSX",
+            "code4":"ZGHA",
+            "name":"Changsha\/Huang Hua",
+            "city":"Changsha",
+            "country":"China",
+            "agoda_country":null
+            },
+        "flight_airline_info":{
+            "code2":"WE",
+            "code3":"THD",
+            "name":"Thai Smile Airways Co.2 Ltd.",
+            "logo":"http:\/\/gateway.airportthai.co.th\/img\/airline_logo\/THD.png",
+            "logo2":"https:\/\/gateway.airportthai.co.th\/img\/airline_logo\/THD.png"
+            },
+        "flight_shares":[
+            {
+                "id":588969,
+                "flight_schedule_daily_id":"815035",
+                "flight_no":"TG 2617",
+                "flight_airline_info_id":"THA",
+                "created_at":"2017-08-21 23:15:18",
+                "updated_at":"2017-08-21 23:15:18",
+                "airline":{
+                    "code2":"TG",
+                    "code3":"THA",
+                    "name":"Thai Airways International Public Co.ltd.",
+                    "logo":"https:\/\/gateway.airportthai.co.th\/img\/airline_logo\/THA.png",
+                    "logo2":"https:\/\/gateway.airportthai.co.th\/img\/airline_logo\/THA.png"
+                    },
+                "flight_airline_info":{
+                    "code2":"TG",
+                    "code3":"THA",
+                    "name":"Thai Airways International Public Co.ltd.",
+                    "logo":"https:\/\/gateway.airportthai.co.th\/img\/airline_logo\/THA.png",
+                    "logo2":"https:\/\/gateway.airportthai.co.th\/img\/airline_logo\/THA.png"
+                }
+            }
+        ],
+        "our_airport":{
+            "code3":"BKK",
+            "code4":"BKK",
+            "name":{
+                "en":"Suvarnabhumi Airport",
+                "th":"\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e2a\u0e38\u0e27\u0e23\u0e23\u0e13\u0e20\u0e39\u0e21\u0e34",
+                "zh-CN":"\u7d20\u65fa\u90a3\u666e\u570b\u969b\u6a5f\u5834","ru":"\u043e\u0431 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442\u0435 \u0421\u0443\u0432\u0430\u0440\u043d\u0430\u0431\u0445\u0443\u043c\u0438",
+                "ja":"\u30b9\u30ef\u30f3\u30ca\u30d7\u30fc\u30e0\u7a7a\u6e2f\u5185\u306e"
+            },
+            "city":"Bangkok",
+            "country":"Thailand"
+        },
+        "belt":"",
+        "gate":""
+    },
+    {
+        "terminal":1,
+        "belt1":"",
+        "belt2":"",
+        "gate1":"",
+        "gate2":"",
+        "remark":"Canceled",
+        "actual_datetime":null,
+        "estimated_datetime":null,
+        "flight_no":"VZ 843",
+        "scheduled_datetime":"2017-08-22 23:55:00",
+        "scheduled_time":"23:55:00",
+        "type":"arrival",
+        "check_in":"",
+        "id":815037,
+        "airport":{
+            "code3":"KBV",
+            "code4":"VTSG",
+            "name":"Krabi",
+            "city":"Krabi",
+            "country":"Thailand",
+            "agoda_country":null
+        },
+        "airline":{
+            "code2":"VZ",
+            "code3":"TVJ",
+            "name":"Thai Vietjet Air Joint Stock Co.ltd.",
+            "logo":"http:\/\/gateway.airportthai.co.th\/img\/airline_logo\/TVJ.png",
+            "logo2":null
+        },
+        "final_datetime":"2017-08-22 23:55:00",
+        "flight_origin_airport":{
+            "code3":"KBV",
+            "code4":"VTSG",
+            "name":"Krabi",
+            "city":"Krabi",
+            "country":"Thailand",
+            "agoda_country":null
+        },
+        "flight_airline_info":{
+            "code2":"VZ",
+            "code3":"TVJ",
+            "name":"Thai Vietjet Air Joint Stock Co.ltd.",
+            "logo":"http:\/\/gateway.airportthai.co.th\/img\/airline_logo\/TVJ.png",
+            "logo2":null
+        },
+        "flight_shares":[],
+        "our_airport":{
+            "code3":"BKK",
+            "code4":"BKK",
+            "name":{
+                "en":"Suvarnabhumi Airport",
+                "th":"\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e2a\u0e38\u0e27\u0e23\u0e23\u0e13\u0e20\u0e39\u0e21\u0e34",
+                "zh-CN":"\u7d20\u65fa\u90a3\u666e\u570b\u969b\u6a5f\u5834",
+                "ru":"\u043e\u0431 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442\u0435 \u0421\u0443\u0432\u0430\u0440\u043d\u0430\u0431\u0445\u0443\u043c\u0438",
+                "ja":"\u30b9\u30ef\u30f3\u30ca\u30d7\u30fc\u30e0\u7a7a\u6e2f\u5185\u306e"
+            },
+            "city":"Bangkok",
+            "country":"Thailand"
+        },
+        "belt":"",
+        "gate":""
+    }
+]
